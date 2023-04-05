@@ -1,0 +1,6 @@
+{
+    "apiurl": "us2.app.sysdig.com",
+    "dbpath": "./sysdig-cli-scanner/cache/db",
+    "cachepath": "./sysdig-cli-scanner/cache/scanner-cache/",
+    "policy": "sysdig-best-practice"
+}
